@@ -1,0 +1,8 @@
+﻿.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+.sass-cache/
+*.map
+node_modules/
+dist/
